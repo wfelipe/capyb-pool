@@ -1,0 +1,24 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "Falkenstein, Germany",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "wfelipe"
+        },
+        "about": {
+            "me": "I'm a software engineer with focus on reliability and automation.",
+            "server": "Dedicated server and with redundancies in the future."
+        }
+    },
+    "my-pool-ids": {
+        "0": "51c46851f53579f04ac4dfe8cde1182976d78b058abd4f1f7a59d4b3"
+    }
+}

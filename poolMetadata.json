@@ -2,5 +2,6 @@
     "name": "Capybara Stake Pool",
     "description": "Capybara Stake Pool - No fees",
     "ticker": "CAPYB",
-    "homepage": "https://github.com/wfelipe/capyb-pool"
+    "homepage": "https://github.com/wfelipe/capyb-pool",
+    "extended": "https://raw.githubusercontent.com/wfelipe/capyb-pool/master/poolMetadataExtended.json"
 }
