@@ -1,8 +1,8 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "",
-        "url_png_logo": "",
+        "url_png_icon_64x64": "https://capybara-pool.org/logo-64x64.png",
+        "url_png_logo": "https://capybara-pool.org/logo.png",
         "location": "Falkenstein, Germany",
         "social": {
             "twitter_handle": "",
@@ -11,7 +11,7 @@
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
-            "github_handle": "wfelipe"
+            "github_handle": ""
         },
         "about": {
             "me": "I'm a software engineer with focus on reliability and automation.",
