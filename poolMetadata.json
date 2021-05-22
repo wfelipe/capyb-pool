@@ -1,7 +1,7 @@
 {
     "name": "Capybara Stake Pool",
-    "description": "Capybara Stake Pool - No fees",
+    "description": "Mission drive pool. We want to contribute with the decentralization by keeping a single pool and donate part of our profits to South American NGOs.",
     "ticker": "CAPYB",
-    "homepage": "https://github.com/wfelipe/capyb-pool",
+    "homepage": "https://capybara-pool.org/",
     "extended": "https://raw.githubusercontent.com/wfelipe/capyb-pool/master/poolMetadataExtended.json"
 }
